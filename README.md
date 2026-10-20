@@ -119,6 +119,11 @@ Reinstalling is safe: an unchanged copy is left alone, and a local edit
 is never overwritten — the new version is written alongside it instead,
 for you to compare and merge by hand.
 
+## Distribution
+
+See [DISTRIBUTION.md](DISTRIBUTION.md) for the license status and how
+to verify a download's checksum.
+
 ## Getting help
 
 File an issue in this repository, or contact your Impulse AI account team.
